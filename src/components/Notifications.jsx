@@ -29,7 +29,7 @@ function Notifications() {
         {
             data.map(item => {
                 return(
-                    <SingleNotification key={item.id} currentNotifData={item} notifState={notifState} setNotifState={setNotifState}  />
+                    <SingleNotification key={item.id} currentNotifData={item} />
                 )
             })
         }

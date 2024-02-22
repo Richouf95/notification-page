@@ -1,6 +1,6 @@
 import React from "react";
 
-function SingleNotification({ currentNotifData, notifState, setNotifState }) {
+function SingleNotification({ currentNotifData }) {
   const direction =
     currentNotifData.message !== null
       ? { flexDirection: "column" }
