@@ -42,7 +42,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/Richouf95/notification-page)
-- Live Site URL: [Live site](https://your-live-site-url.com)
+- Live Site URL: [Live site](https://notification-page-khaki.vercel.app)
 
 ## My process
 
